@@ -1,0 +1,6 @@
+tabWidth: 4
+semi: false
+trailingComma: "es5"
+bracketSpacing: true
+singleQuote: false
+printWidth: 100

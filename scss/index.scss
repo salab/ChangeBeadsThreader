@@ -1,0 +1,53 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+}
+
+div#contents {
+    height: 100%;
+}
+
+@font-face {
+    font-family: "NotoSans";
+    src:
+        url(../resource/NotoSansCJKjp-Regular.woff) format("woff"),
+        url(../resource/NotoSansCJKjp-Regular.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "NotoSansThin";
+    src:
+            url(../resource/NotoSansCJKjp-Thin.woff) format("woff"),
+            url(../resource/NotoSansCJKjp-Thin.ttf) format("truetype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "migu1M";
+    src:
+            url(../resource/migu-1m-regular.woff) format("woff"),
+            url(../resource/migu-1m-regular.ttf) format("truetype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+.commit-table-splitter {
+    > div.layout-splitter {
+        width: 2px;
+    }
+}
+
+.selectable-selectbox {
+    z-index: 9000;
+    position: absolute;
+    cursor: default;
+    background: none;
+    border: 1px dashed silver;
+}
