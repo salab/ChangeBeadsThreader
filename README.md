@@ -4,6 +4,9 @@ An interactive environment for tailoring automatically untangled changes
 ## Description
 `ChangeBeadsThreader` is interactive environment for supporting the manual tailoring of automatically untangled changes.
 
+## Demo
+[![](https://img.youtube.com/vi/q4kNcvjpxvo/0.jpg)](https://www.youtube.com/watch?v=q4kNcvjpxvo)
+
 ## Requirement
 - Java 11+
 
@@ -15,7 +18,7 @@ An interactive environment for tailoring automatically untangled changes
 ## Usage
 1. `$ yarn start`
 1. Click `Open repository button` and select file.
-    - File is a json file output by `ChangeBeadsPreprocessor`.
+    - File is a json file output by [ChangeBeadsPreprocessor](https://github.com/salab/ChangeBeadsPreprocessor).
     - Repository directory and JSON file must have the same name and be in the same directory
     ##### Example of file placement
     ```
