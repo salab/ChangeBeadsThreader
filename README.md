@@ -36,9 +36,9 @@ _ChangeBeadsThreader_ is an interactive environment for supporting the manual ta
 1. Click `Export Repository button` and export the untangled repository
 
 ## Related Publication
-If you use this tool in a scientific publication, we would appreciate citations to the following paper:
+If you use or mention this tool in a scientific publication, we would appreciate citations to the following paper:
 
-Satoshi Yamashita, Shinpei Hayashi, Motoshi Saeki: "ChangeBeadsThreader: An Interactive Environment for Tailoring Automatically Untangled Changes". In Proceedings of the 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020), pp. 657-661, 2020. https://arxiv.org/abs/2003.14086
+Satoshi Yamashita, Shinpei Hayashi, Motoshi Saeki: "ChangeBeadsThreader: An Interactive Environment for Tailoring Automatically Untangled Changes". In Proceedings of the 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020), pp. 657-661, 2020. DOI: https://doi.org/10.1109/SANER48275.2020.9054861 / Preprint: https://arxiv.org/abs/2003.14086
 ```
 @inproceedings{yamashita-saner2020,
     author = {Satoshi Yamashita and Shinpei Hayashi and Motoshi Saeki},
@@ -46,5 +46,6 @@ Satoshi Yamashita, Shinpei Hayashi, Motoshi Saeki: "ChangeBeadsThreader: An Inte
     booktitle = {Proceedings of the 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020)},
     pages = {657--661},
     year = 2020,
+    doi = {10.1109/SANER48275.2020.9054861}
 }
 ```
