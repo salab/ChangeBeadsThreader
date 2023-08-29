@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Yamashita
+  given-names: Satoshi
+title: ChangeBeadsThreader
+version: 0.4.0
+date-released: 2020-03-31
+url: https://github.com/salab/ChangeBeadsThreader
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: Yamashita
+    given-names: Satoshi
+  - family-names: Hayashi
+    given-names: Shinpei
+  - family-names: Saeki
+    given-names: Motoshi
+  doi: 10.1109/SANER48275.2020.9054861
+  collection-type: proceedings
+  collection-title: "Proceedings of the 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020)"
+  title: "ChangeBeadsThreader: An Interactive Environment for Tailoring Automatically Untangled Changes"
+  start: 657
+  end: 661
+  year: 2020
+  month: 2
