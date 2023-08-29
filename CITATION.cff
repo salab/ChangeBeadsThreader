@@ -4,7 +4,6 @@ authors:
 - family-names: Yamashita
   given-names: Satoshi
 title: ChangeBeadsThreader
-version: 0.4.0
 date-released: 2020-03-31
 url: https://github.com/salab/ChangeBeadsThreader
 preferred-citation:
